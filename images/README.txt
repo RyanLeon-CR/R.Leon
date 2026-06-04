@@ -1,1 +1,1 @@
-Put iamges here
+Put images here
