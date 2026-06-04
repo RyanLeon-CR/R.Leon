@@ -204,7 +204,7 @@
 
         <a href="mailto:ryanleonvargas1@gmail.com">Email Me</a>
 
-        <a href="https://www.linkedin.com/public-profile/settings/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact_info%3BPEdVfSq%2BSDqGoRFlTYvHsA%3D%3D" target="_blank">
+        <a href="https://www.linkedin.com/in/ryan-le%C3%B3n-vargas-350b63413" target="_blank">
             LinkedIn
         </a>
     </section>
