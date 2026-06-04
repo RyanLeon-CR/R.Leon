@@ -1,4 +1,4 @@
-# R.Leon
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -9,7 +9,7 @@
         *{
             margin:0;
             padding:0;
-            box-sizing:border-box;
+            box-sizing:border 40px 20px;
             font-family: Arial, sans-serif;
         }
 
@@ -23,7 +23,7 @@
             background:#1e3a5f;
             color:white;
             text-align:center;
-            padding:60px 20px;
+            padding:40px 20px;
         }
 
         header h1{
